@@ -1,4 +1,5 @@
 import ProfileCard from "./components/ProfileCard";
+
 function App() {
   return (
    <div className="min-h-screen bg-darkPurple text-ivory flex items-center justify-center px-4">
