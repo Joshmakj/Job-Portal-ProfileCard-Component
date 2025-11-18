@@ -6,6 +6,7 @@ module.exports = {
         darkPurple: "#2E1A47",
         ivory: "#FFFFF0",
         lilac:"#C8A2C8",
+        red:"#FF0000",
       },
       keyframes: {
         fadeInUp: {
